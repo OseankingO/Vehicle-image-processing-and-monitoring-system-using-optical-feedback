@@ -4,4 +4,4 @@
 
 This is a Machine Learning project develped on Raspberry Pi with by Python. Following is the report of this project:
 
-https://docs.google.com/document/d/1rDhkpqqFDyMSRbJZ_I_T8mPhvSVsg4DJga4Xiiyi_U4/edit?usp=sharing
+https://drive.google.com/file/d/1H6cdVAcDnTE0q7Mi1RRbZ8LaRlLCZjzo/view?usp=sharing
